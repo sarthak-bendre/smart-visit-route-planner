@@ -1,0 +1,23 @@
+dealer_id,dealer_name,area,category,latitude,longitude,monthly_target_lakh,achieved_lakh,pending_issues,days_since_last_visit
+D001,Star Smart Electronics,Kothrud,Electronics,18.510222,73.801847,28.0,30.6,1,35
+D002,Star Cool Home Store,Baner,Appliance,18.556441,73.789438,30.0,16.4,0,35
+D003,New Auto Wheels,Hinjewadi,Two-Wheeler,18.588722,73.740006,54.0,42.3,3,2
+D004,Shiv Auto Wheels,Hadapsar,Two-Wheeler,18.506857,73.929668,47.0,47.9,0,28
+D005,Star Appliance Mart,Viman Nagar,Appliance,18.568996,73.915538,15.0,12.0,2,18
+D006,Star Auto Wheels,Aundh,Two-Wheeler,18.555559,73.809348,59.0,41.0,2,5
+D007,Sai Cell Zone,Wakad,Mobile,18.599452,73.77223,16.0,9.9,0,28
+D008,New Home Appliances,Kharadi,Appliance,18.552196,73.93515,18.0,19.3,3,7
+D009,New Smart Electronics,Kondhwa,Electronics,18.465703,73.892867,19.0,11.4,2,18
+D010,New Phone Planet,Katraj,Mobile,18.455583,73.866875,22.0,17.5,0,3
+D011,New Cell Zone,Pimpri,Mobile,18.626895,73.801388,16.0,14.0,1,14
+D012,Prime Vision Electronics,Swargate,Electronics,18.500413,73.866174,24.0,11.4,0,9
+D013,Shiv Motors,Deccan,Two-Wheeler,18.518191,73.841927,33.0,16.3,0,18
+D014,Prime Smart Electronics,Camp,Electronics,18.514072,73.87937,39.0,37.0,0,3
+D015,Shree Mobile Point,Yerawada,Mobile,18.553761,73.884792,9.0,8.9,5,12
+D016,Sai Auto Wheels,Warje,Two-Wheeler,18.484805,73.79843,50.0,39.2,1,14
+D017,Ganesh Appliance Mart,Sinhagad Road,Appliance,18.477008,73.828199,12.0,6.5,0,18
+D018,Om Mobile Gallery,Bibwewadi,Mobile,18.472213,73.861199,25.0,25.9,2,5
+D019,Sai Electro World,Wanowrie,Electronics,18.484818,73.901303,42.0,33.3,3,14
+D020,Sai Kitchen Kraft,Pashan,Appliance,18.536412,73.790698,32.0,32.6,0,14
+D021,Prime Digital Hub,Kalyani Nagar,Electronics,18.548538,73.90266,35.0,18.0,0,12
+D022,Ganesh Smart Electronics,Bavdhan,Electronics,18.511434,73.778081,19.0,10.0,0,35
