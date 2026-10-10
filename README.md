@@ -2,6 +2,8 @@
 
 **It tells a field manager whom to visit today, in what order, and how much travel time it saves.**
 
+**Live demo:** https://sarthak-route-planner.streamlit.app/
+
 ![Smart Visit Route Planner](docs/screenshot.png)
 
 A field manager at an NBFC handles 15–25 dealers (electronics, mobile, appliance and two-wheeler stores
